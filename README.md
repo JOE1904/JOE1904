@@ -16,7 +16,7 @@ Here are some of the projects I've worked on:
 1. **Brick Blaster Game**: 
    - *Description:*
    - Brick Blaster is a classic arcade game that combines fast-paced action and strategic gameplay. In this timeless favorite, players take control of a paddle, using it to bounce a ball towards a formation of bricks at the top of the screen. The objective is simple: clear the screen of all the bricks without letting the ball fall off the bottom.
-   - GitHub Repository: [Link](https://github.com/yourusername/project1)
+   - GitHub Repository: https://github.com/JOE1904/brick_blaster.git
 
 Feel free to explore these projects, and don't hesitate to reach out if you have any questions or suggestions!
 
