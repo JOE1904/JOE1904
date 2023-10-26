@@ -13,33 +13,16 @@ I'm passionate about technology, and I love creating innovative solutions to rea
 
 Here are some of the projects I've worked on:
 
-1. **Text Extraction and Classification for Unparliamentary Elements**
-   - Description: A brief description of the project.
+1. **Brick Blaster Game**: 
+   - *Description:*
+   - Brick Blaster is a classic arcade game that combines fast-paced action and strategic gameplay. In this timeless favorite, players take control of a paddle, using it to bounce a ball towards a formation of bricks at the top of the screen. The objective is simple: clear the screen of all the bricks without letting the ball fall off the bottom.
    - GitHub Repository: [Link](https://github.com/yourusername/project1)
-
-2. **Project Name 2**
-   - Description: A brief description of the project.
-   - GitHub Repository: [Link](https://github.com/yourusername/project2)
-
-3. **Project Name 3**
-   - Description: A brief description of the project.
-   - GitHub Repository: [Link](https://github.com/yourusername/project3)
-
-4. **Project Name 4**
-   - Description: A brief description of the project.
-   - GitHub Repository: [Link](https://github.com/yourusername/project4)
-
-5. **Project Name 5**
-   - Description: A brief description of the project.
-   - GitHub Repository: [Link](https://github.com/yourusername/project5)
 
 Feel free to explore these projects, and don't hesitate to reach out if you have any questions or suggestions!
 
 ## Let's Connect
 
-📫 You can reach me via email at [Your Email Address].
-🌐 Check out my personal website: [Your Website](https://yourwebsite.com)
-💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername)
-🐦 Follow me on [Twitter](https://twitter.com/yourusername)
+📫 You can reach me via email at [Gmail](joanjob1904@gmail.com).
+💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/joan-job-30b19a204/)
 
 Thanks for visiting my GitHub profile! 😄
